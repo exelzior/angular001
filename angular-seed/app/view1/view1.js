@@ -10,5 +10,6 @@ angular.module('myApp.view1', ['ngRoute','ngMaterial'])
 }])
 
 .controller('View1Ctrl', [function() {
+  
   console.log('llego aca');
 }]);
